@@ -1,0 +1,8 @@
+---
+title: "exerciseyr"
+author: "lele wang"
+date: "4/21/2021"
+output: html_document
+---
+
+kuailexingqiu
